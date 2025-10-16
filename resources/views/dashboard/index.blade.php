@@ -770,11 +770,11 @@
                                                         </div>
                                                         <div class="social-details">
                                                             <h5 class="mb-1"><a href="#"
-                                                                    style="font-size: 25px">Arif</a></h5><span
-                                                                class="f-light">@rep_arif</span>
+                                                                    style="font-size: 25px">Developer 1</a></h5><span
+                                                                class="f-light">@Developer1</span>
                                                             <ul class="card-social">
                                                                 <li>
-                                                                    <a href="https://www.instagram.com/rep_arif"
+                                                                    <a href="https://www.instagram.com"
                                                                         target="_blank"><i class="fa fa-instagram"
                                                                             style="font-size: 20px"></i></a>
                                                                 </li>
@@ -801,11 +801,11 @@
                                                         </div>
                                                         <div class="social-details">
                                                             <h5 class="mb-1"><a href="#"
-                                                                    style="font-size: 25px">Zakwan</a></h5><span
-                                                                class="f-light">@zakwanhrp</span>
+                                                                    style="font-size: 25px">Developer 2</a></h5><span
+                                                                class="f-light">@Developer2</span>
                                                             <ul class="card-social">
                                                                 <li>
-                                                                    <a href="https://www.instagram.com/zakwanhrp"
+                                                                    <a href="https://www.instagram.com/"
                                                                         target="_blank"><i class="fa fa-instagram"
                                                                             style="font-size: 20px"></i></a>
                                                                 </li>
@@ -832,11 +832,11 @@
                                                         </div>
                                                         <div class="social-details">
                                                             <h5 class="mb-1"><a href="#"
-                                                                    style="font-size: 25px">Moan</a></h5><span
-                                                                class="f-light">@moannsgn_</span>
+                                                                    style="font-size: 25px">Developer 3</a></h5><span
+                                                                class="f-light">@Developer3</span>
                                                             <ul class="card-social">
                                                                 <li>
-                                                                    <a href="https://www.instagram.com/moannsgn_"
+                                                                    <a href="https://www.instagram.com/"
                                                                         target="_blank"><i class="fa fa-instagram"
                                                                             style="font-size: 20px"></i></a>
                                                                 </li>
@@ -863,11 +863,11 @@
                                                         </div>
                                                         <div class="social-details">
                                                             <h5 class="mb-1"><a href="#"
-                                                                    style="font-size: 25px">Talitha</a></h5><span
-                                                                class="f-light">@talitharizq</span>
+                                                                    style="font-size: 25px">Developer 4</a></h5><span
+                                                                class="f-light">@Developer4</span>
                                                             <ul class="card-social">
                                                                 <li>
-                                                                    <a href="https://www.instagram.com/talitharizq"
+                                                                    <a href="https://www.instagram.com/"
                                                                         target="_blank"><i class="fa fa-instagram"
                                                                             style="font-size: 20px"></i></a>
                                                                 </li>
@@ -894,11 +894,11 @@
                                                         </div>
                                                         <div class="social-details">
                                                             <h5 class="mb-1"><a href="#"
-                                                                    style="font-size: 25px">Keysha</a></h5><span
-                                                                class="f-light">@keyzhayura</span>
+                                                                    style="font-size: 25px">Developer 5</a></h5><span
+                                                                class="f-light">@Developer5</span>
                                                             <ul class="card-social">
                                                                 <li>
-                                                                    <a href="https://www.instagram.com/keyzhayura"
+                                                                    <a href="https://www.instagram.com"
                                                                         target="_blank"><i class="fa fa-instagram"
                                                                             style="font-size: 20px"></i></a>
                                                                 </li>
@@ -925,11 +925,11 @@
                                                         </div>
                                                         <div class="social-details">
                                                             <h5 class="mb-1"><a href="#"
-                                                                    style="font-size: 25px">Rasyid</a></h5><span
-                                                                class="f-light">@rafieabdullah_</span>
+                                                                    style="font-size: 25px">Developer 6</a></h5><span
+                                                                class="f-light">@Developer6</span>
                                                             <ul class="card-social">
                                                                 <li>
-                                                                    <a href="https://www.instagram.com/rafieabdullah_"
+                                                                    <a href="https://www.instagram.com/"
                                                                         target="_blank"><i class="fa fa-instagram"
                                                                             style="font-size: 20px"></i></a>
                                                                 </li>
